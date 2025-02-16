@@ -15,5 +15,7 @@ Node.js uses JavaScript on the server
 
 Why Node.js?
 Node.js uses asynchronous programming
+Node.js eliminates the waiting, and simply continues with the next request.
+Node.js runs single-threaded, non-blocking, asynchronous programming, which is very memory efficient.
 
 
